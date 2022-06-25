@@ -1,0 +1,16 @@
+{
+    "name": "dianasrg/pln_dianasrg",
+    "description": "Tugas2_dianasrg",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "nisa\\PlnDianasrg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dianasrg"
+        }
+    ],
+    "require": {}
+}
